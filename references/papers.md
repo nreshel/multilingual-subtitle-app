@@ -14,5 +14,3 @@
 
 ## MP3 to WAV Conversion using Librosa
 - **Convert MP3 to WAV in Python using Librosa**: A Stack Overflow discussion with code examples on how to convert MP3 files to WAV format using Librosa. [Convert MP3 to WAV in Python using Librosa](https://stackoverflow.com/questions/57729553/how-can-i-convert-an-mp3-to-wav-with-librosa)
-
-These links should provide you with the necessary information and code to perform your audio processing tasks using Librosa.
